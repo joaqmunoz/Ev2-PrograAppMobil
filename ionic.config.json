@@ -1,0 +1,7 @@
+{
+  "name": "Inscripto",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
